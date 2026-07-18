@@ -2,10 +2,9 @@
 
 **AI/ML & Agentic Automation Engineer** — I build production-shaped systems where classical ML models make the decisions and guardrailed LLM agents carry them out, always under human-in-the-loop approval.
 
-🎓 Final-year BSc Computer Science & AI, NIBM Kandy (Coventry University, UK)
-📍 Jaffna, Sri Lanka
+🎓 Final-year BSc Computer Science & AI, NIBM Kandy (Coventry University, UK)  
+📍 Jaffna, Sri Lanka  
 🟢 Actively seeking AI/ML & GenAI Automation Internships
-
 ---
 
 ## ⚙️ What I Work With
