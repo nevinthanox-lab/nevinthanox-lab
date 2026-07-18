@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="profile.png" width="150" alt="Thanojan S" />
@@ -8,7 +7,7 @@
 
 **Classical ML models make the decisions. Guardrailed LLM agents carry them out. Every action waits on human approval.**
 
-📧 [nevinthanox@gmail.com](mailto:nevinthanox@gmail.com) &nbsp;·&nbsp; 🔗 [github.com/nevinthanox-lab](https://github.com/nevinthanox-lab) &nbsp;·&nbsp; 📍 Jaffna, Sri Lanka &nbsp;·&nbsp; 🎯 Open to AI/GenAI Internships
+📧 [nevinthanox@gmail.com](mailto:nevinthanox@gmail.com) &nbsp;·&nbsp; 🔗 [github.com/nevinthanox-lab](https://github.com/nevinthanox-lab) &nbsp;·&nbsp; 📍 Jaffna, Sri Lanka &nbsp;·&nbsp; 🎯 Open to AI/ML & Agentic Automation Engineer Internships
 
 </div>
 
@@ -37,15 +36,21 @@ I build AI systems the way a production engineer would: a **classical ML model s
 
 ## ⚙️ Tech Stack
 
-**Agentic Orchestration** — LangGraph · CrewAI · n8n · LangChain · LlamaIndex
+**Languages & Data Engineering** — Python · SQL · pandas · NumPy · DuckDB
 
-**Classical ML & Deep Learning** — XGBoost · SHAP · Optuna · scikit-learn · PyTorch · TensorFlow · Hugging Face Transformers
+**ML & Deep Learning** — XGBoost · SHAP · Optuna · scikit-learn (IsolationForest, One-Class SVM, Gradient Boosting, Logistic Regression) · PyTorch · TensorFlow/Keras · Hugging Face Transformers · DistilBERT
+
+**Agentic Orchestration** — LangGraph · CrewAI · LlamaIndex · LangChain · RAG Pipelines · n8n
 
 **LLM Providers** — GPT-4o-mini · Groq (Llama-3.3-70B) · Ollama (local inference)
 
-**Backend & Data** — FastAPI · Pydantic · PostgreSQL/Supabase · pgvector · MongoDB · Chroma · Docker
+**Backend & Data Stores** — FastAPI · Pydantic · PostgreSQL/Supabase · pgvector · MongoDB · Chroma · Hugging Face Hub
 
-**MLOps & Tooling** — MLflow · Weights & Biases · GitHub Actions · Slack API · SerpAPI · Airtable
+**MLOps & Dev Tooling** — MLflow · Weights & Biases · Docker · GitHub Actions · Jupyter · Loguru · Matplotlib/Seaborn
+
+**Integrations & APIs** — Slack API (Block Kit) · SerpAPI · Airtable
+
+**Core Competencies** — Agentic Orchestration · RAG Engineering · Human-in-the-Loop Design · AI Security & Fail-Closed Guardrails · Explainable AI · Structured Output Enforcement
 
 ---
 
