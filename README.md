@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.png" width="150" alt="Thanojan S" />
+<img src="avatar.gif" width="180" alt="Thanojan S" />
 
 # Thanojan S
 ### AI/ML & Agentic Automation Engineer
