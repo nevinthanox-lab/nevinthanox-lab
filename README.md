@@ -15,6 +15,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=2&width=100%"/>
 
+> ### 🧠 30-second pitch for recruiters
+> **6 production-shaped AI systems shipped** • ROC-AUC **0.91** churn model • **94.67%** accuracy prompt-injection defense • Every agent **fail-closed**, **schema-validated**, and gated behind **human approval** — nothing here is a notebook demo.
+
 ## 🧭 About Me
 
 Final-year **BSc (Hons) Computer Science with Artificial Intelligence** student at **NIBM Kandy**, affiliated to **Coventry University, UK**.
@@ -57,7 +60,6 @@ class HowIBuild:
 
 **Agentic Orchestration**
 <br/>
-<img src="https://skillicons.dev/icons?i=py&theme=dark" height="42"/>&nbsp;
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
@@ -139,10 +141,10 @@ Classical ML handed off to guardrailed LLM agents:
 ## 📈 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nevinthanox-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=nevinthanox-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=nevinthanox-lab&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevinthanox-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nevinthanox-lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
 
 <br/><br/>
 
