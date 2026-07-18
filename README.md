@@ -10,11 +10,11 @@
 
 ## ⚙️ What I Work With
 
-**Agentic Orchestration** — LangGraph · CrewAI · n8n
-**Classical ML** — XGBoost · SHAP · scikit-learn · TensorFlow
-**RAG & Vector Retrieval** — LlamaIndex · LangChain · pgvector · Chroma
-**LLMs & Inference** — GPT-4o-mini · Groq Llama-3.3 · Ollama
-**Infra & Data** — Docker · FastAPI · Postgres · Supabase · MongoDB · MLflow
+- **Agentic Orchestration** — LangGraph · CrewAI · n8n
+- **Classical ML** — XGBoost · SHAP · scikit-learn · TensorFlow
+- **RAG & Vector Retrieval** — LlamaIndex · LangChain · pgvector · Chroma
+- **LLMs & Inference** — GPT-4o-mini · Groq Llama-3.3 · Ollama
+- **Infra & Data** — Docker · FastAPI · Postgres · Supabase · MongoDB · MLflow
 
 ---
 
