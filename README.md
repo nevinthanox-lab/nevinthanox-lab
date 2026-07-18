@@ -1,4 +1,5 @@
 # Hi, I'm Thanojan 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI%2FML+%26+Agentic+Automation+Engineer;Building+Production-Shaped+LLM+Agents;Classical+ML+%E2%86%92+Guardrailed+Agent+Handoff;Open+to+AI%2FGenAI+Internships)
 
 **AI/ML & Agentic Automation Engineer** — I build production-shaped systems where classical ML models make the decisions and guardrailed LLM agents carry them out, always under human-in-the-loop approval.
 
