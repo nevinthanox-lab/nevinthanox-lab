@@ -1,6 +1,7 @@
 # Hi, I'm Thanojan 👋
 
 **AI/ML & Agentic Automation Engineer** — I build production-shaped systems where classical ML models make the decisions and guardrailed LLM agents carry them out, always under human-in-the-loop approval.
+🎯 6 production-shaped AI systems shipped · 87.4% churn detection · 94.67% prompt-injection defense accuracy
 
 🎓 Final-year BSc Computer Science & AI, NIBM Kandy (Coventry University, UK)  
 📍 Jaffna, Sri Lanka  
