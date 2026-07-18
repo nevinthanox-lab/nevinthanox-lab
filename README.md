@@ -5,9 +5,11 @@
 # Thanojan S
 ### AI/ML & Agentic Automation Engineer
 
-**Classical ML models make the decisions. Guardrailed LLM agents carry them out. Every action waits on human approval.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=2C5364&center=true&vCenter=true&multiline=true&width=800&height=90&lines=ROC-AUC+0.91+on+ChurnGuard+%E2%80%94+verified+on+real+data.;94.67%25+accuracy+stopping+prompt-injection+attacks.;97%2F97+anomalies+caught+in+full+replay+%E2%80%94+zero+misses.;Every+result+above+is+from+a+shipped%2C+working+system." alt="Typing SVG" />
 
-📧 [nevinthanox@gmail.com](mailto:nevinthanox@gmail.com) &nbsp;·&nbsp; 🔗 [github.com/nevinthanox-lab](https://github.com/nevinthanox-lab) &nbsp;·&nbsp; 📍 Jaffna, Sri Lanka &nbsp;·&nbsp; 🎯 Open to AI/ML & Agentic Automation Engineer Internships
+📧 [nevinthanox@gmail.com](mailto:nevinthanox@gmail.com) &nbsp;·&nbsp; 🔗 [github.com/nevinthanox-lab](https://github.com/nevinthanox-lab) &nbsp;·&nbsp; 📍 Jaffna, Sri Lanka
+
+🎯 **Open to AI/ML & Agentic Automation Engineer Internships**
 
 </div>
 
