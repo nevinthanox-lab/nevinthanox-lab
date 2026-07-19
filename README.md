@@ -3,7 +3,7 @@
 <img src="avatar.gif" width="180" alt="Thanojan S" />
 
 # Thanojan S
-### AI/ML & Agentic Automation Engineer
+### AI/ML & Data Engineer | Automation & Agentic Systems
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=2C5364&center=true&vCenter=true&multiline=true&width=800&height=90&lines=ROC-AUC+0.91+on+ChurnGuard+%E2%80%94+verified+on+real+data.;94.67%25+accuracy+stopping+prompt-injection+attacks.;97%2F97+anomalies+caught+in+full+replay+%E2%80%94+zero+misses.;Every+result+above+is+from+a+shipped%2C+working+system." alt="Typing SVG" />
 
