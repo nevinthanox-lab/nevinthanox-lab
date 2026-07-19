@@ -9,7 +9,7 @@
 
 📧 [nevinthanox@gmail.com](mailto:nevinthanox@gmail.com) &nbsp;·&nbsp; 🔗 [github.com/nevinthanox-lab](https://github.com/nevinthanox-lab) &nbsp;·&nbsp; 📍 Jaffna, Sri Lanka
 
-🎯 **🎯 Open to AI/ML, Data Analytics, Data Engineering & Automation Internships**
+🎯**Open to AI/ML, Data Analytics, Data Engineering & Automation Internships**
 
 </div>
 
